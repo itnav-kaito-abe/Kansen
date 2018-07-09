@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kansen.Plugins", "kansen.Plugins.csproj", "{0F018EC6-68BA-A74B-3258-D5DC0C9CA308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kansen", "kansen.csproj", "{91D4CF34-859D-C7F6-B4B7-25D8FA09E068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kansen.Editor.Plugins", "kansen.Editor.Plugins.csproj", "{FF217AC4-AD5C-0540-36CB-68340FB784BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F018EC6-68BA-A74B-3258-D5DC0C9CA308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F018EC6-68BA-A74B-3258-D5DC0C9CA308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F018EC6-68BA-A74B-3258-D5DC0C9CA308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F018EC6-68BA-A74B-3258-D5DC0C9CA308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D4CF34-859D-C7F6-B4B7-25D8FA09E068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D4CF34-859D-C7F6-B4B7-25D8FA09E068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D4CF34-859D-C7F6-B4B7-25D8FA09E068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D4CF34-859D-C7F6-B4B7-25D8FA09E068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF217AC4-AD5C-0540-36CB-68340FB784BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF217AC4-AD5C-0540-36CB-68340FB784BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF217AC4-AD5C-0540-36CB-68340FB784BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF217AC4-AD5C-0540-36CB-68340FB784BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

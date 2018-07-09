@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: fedda3be7c5fb2d4bb97867637784a14
+  - enabled: 1
+    path: Assets/Scenes/Select.unity
+    guid: 80d185c5fbf33ae49a08362d473c5c66
+  - enabled: 0
+    path: Assets/Scenes/MainGame.unity
+    guid: cf28c97cec09d974587a80b34add78fa
+  - enabled: 1
+    path: Assets/Scenes/Green caterpillar.unity
+    guid: 2dbe2f010f074244e8769577e472ca8a
+  - enabled: 1
+    path: Assets/Scenes/Bard.unity
+    guid: 73d9ca22c19e71d4ca2b3009fc073156
+  - enabled: 1
+    path: Assets/Scenes/Cat.unity
+    guid: 49e79c9993025c648849167660b459cd
+  - enabled: 1
+    path: Assets/Scenes/Human.unity
+    guid: bd723f6b82de1e14aac86d828762af4b
+  - enabled: 1
+    path: Assets/Scenes/Select_Bard.unity
+    guid: d49e94ce81a259e4f94fdfa8194e6ec6
+  - enabled: 1
+    path: Assets/Scenes/Select_Cat.unity
+    guid: f1780269f1a7b4b4088f091d833db49b
+  - enabled: 1
+    path: Assets/Scenes/Select_Human.unity
+    guid: e3ba6c15c205e9141bfa54d1ccb456ba
