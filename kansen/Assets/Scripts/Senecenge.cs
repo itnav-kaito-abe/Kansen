@@ -21,7 +21,7 @@ public class Senecenge : MonoBehaviour {
     }
 
     public void Selecte() {
-        Invoke("ToSelectScene",2);
+        Invoke("ToSelectScene",0.1f);
     }
 
     public void ToGreencaterpillar(){
@@ -29,7 +29,7 @@ public class Senecenge : MonoBehaviour {
     }
 
     public void Selecte_G() {
-        Invoke("ToGreencaterpillar",2);
+        Invoke("ToGreencaterpillar",0.1f);
     }
 
     public void ToBard() {
@@ -37,7 +37,7 @@ public class Senecenge : MonoBehaviour {
     }
 
     public void Selecte_B() {
-        Invoke("ToBard",2);
+        Invoke("ToBard",0.1f);
     }
 
     public void ToCat() {
@@ -45,7 +45,7 @@ public class Senecenge : MonoBehaviour {
     }
 
     public void Selecte_C() {
-        Invoke("ToCat",2);
+        Invoke("ToCat",0.1f);
     }
 
     public void ToHuman() {
@@ -53,7 +53,7 @@ public class Senecenge : MonoBehaviour {
     }
 
     public void Selecte_H() {
-        Invoke("ToHuman",2);
+        Invoke("ToHuman",0.1f);
     }
 
 }
