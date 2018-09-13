@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 245
+  controlID: 105
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -49,8 +49,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2
     y: 19
-    width: 759
-    height: 371
+    width: 751
+    height: 362
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
   m_Stats: 0
@@ -61,8 +61,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     m_HBaseRangeMin: -540
     m_HBaseRangeMax: 540
-    m_VBaseRangeMin: -990
-    m_VBaseRangeMax: 990
+    m_VBaseRangeMin: -960
+    m_VBaseRangeMax: 960
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -79,25 +79,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 759
-      height: 354
-    m_Scale: {x: 0.17878787, y: 0.17878787}
-    m_Translation: {x: 379.5, y: 177}
+      width: 751
+      height: 345
+    m_Scale: {x: 0.17968751, y: 0.1796875}
+    m_Translation: {x: 375.5, y: 172.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -2122.6272
-      y: -990.00006
-      width: 4245.2544
-      height: 1980.0001
+      x: -2089.739
+      y: -960
+      width: 4179.478
+      height: 1920
     m_MinimalGUI: 1
-  m_defaultScale: 0.17878787
+  m_defaultScale: 0.1796875
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 759, y: 371}
+  m_LastWindowPixelSize: {x: 751, y: 362}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -119,8 +119,8 @@ MonoBehaviour:
     y: 0
     width: 326
     height: 731
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 4}
   m_Panes:
   - {fileID: 4}
@@ -154,9 +154,9 @@ MonoBehaviour:
     height: 710
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0e290000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 00f8ffff18fcffff00000000
+    m_SelectedIDs: 9ce0ffff
+    m_LastClickedID: -8036
+    m_ExpandedIDs: 9ce0ffff18fcffff0000000094290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -175,7 +175,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 3}
     m_SearchString: 
   m_ExpandedScenes:
-  - Human
+  - Title
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -202,7 +202,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 205
+  controlID: 64
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -438,18 +438,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\kaito\Documents\kansen\kansen
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: de260000
-    m_LastClickedID: 9950
+    scrollPos: {x: 0, y: 195}
+    m_SelectedIDs: ac270000
+    m_LastClickedID: 10156
     m_ExpandedIDs: 00000000de26000034270000a4270000cc270000102800001228000024280000a2280000de2800002c29000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -478,7 +478,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000de26000034270000a4270000cc270000102800001228000024280000a2280000de2800002c29000000ca9a3bffffff7f
+    m_ExpandedIDs: 00000000de26000034270000a4270000cc270000102800001228000024280000a2280000de2800002c290000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -503,9 +503,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 0e290000
-    m_LastClickedInstanceID: 10510
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 9ce0ffff
+    m_LastClickedInstanceID: -8036
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300007a26000082260000562a0000682a000022280000102a0000c4300000bc300000942800006a2800005e29000002d9fdff6029000000000000a4270000aa2700008691ffff102b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

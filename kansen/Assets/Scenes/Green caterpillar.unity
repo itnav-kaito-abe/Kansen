@@ -501,7 +501,13 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 58982488690024594, guid: 49ac385a91bf84b4d9bbf056c99d2b3d,
+        type: 2}
+      propertyPath: m_Radius
+      value: 1.6
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 114459594115670920, guid: 49ac385a91bf84b4d9bbf056c99d2b3d, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 49ac385a91bf84b4d9bbf056c99d2b3d, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &333302180
@@ -589,6 +595,17 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 1.6
+--- !u!114 &386802816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 386802808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 453fc081a1183b44a95314cec9a60c73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &496289816
 GameObject:
   m_ObjectHideFlags: 0
@@ -1229,7 +1246,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1401745849}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3, y: 542, z: 0}
+  m_LocalPosition: {x: -3, y: 486, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1624888127}

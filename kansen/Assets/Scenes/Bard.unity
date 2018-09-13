@@ -291,7 +291,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 277502087}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 19.07, z: 0}
+  m_LocalPosition: {x: 0, y: 21.1, z: 0}
   m_LocalScale: {x: 1.1, y: 1.1, z: 1}
   m_Children: []
   m_Father: {fileID: 746069160}
@@ -1110,8 +1110,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1197195150}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1900, z: 0}
-  m_LocalScale: {x: 719.09344, y: 192.66022, z: 1}
+  m_LocalPosition: {x: 0, y: 1800, z: 0}
+  m_LocalScale: {x: 719.09344, y: 70, z: 1}
   m_Children: []
   m_Father: {fileID: 1147441602}
   m_RootOrder: 2
@@ -1493,7 +1493,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_TargetDisplay: 0
 --- !u!224 &1525199828
 RectTransform:
