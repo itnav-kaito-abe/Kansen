@@ -27,7 +27,7 @@ public class CameraAspect : MonoBehaviour {
 		// 例:)縦画面の2436(iPhone10)/1080(FullHD)は1.26875の比率でサイズが変更される
 		float h = Screen.height / 1920.0f;
 		// キャンバスの描画部分を取得する
-		viewObject = GameObject.Find("Title/Canvas/View");
+		viewObject = GameObject.Find("View");
 		// 描画部分のTransformを取得
 		tr = viewObject.GetComponent<Transform>();
 		// 一度縦横で比率を合わせる
