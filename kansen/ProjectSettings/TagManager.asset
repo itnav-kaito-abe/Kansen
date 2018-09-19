@@ -15,6 +15,10 @@ TagManager:
   - GB
   - HE
   - HB
+  - GBullet
+  - BBullet
+  - CBullet
+  - HBullet
   layers:
   - Default
   - TransparentFX
